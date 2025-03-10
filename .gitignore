@@ -1,0 +1,8 @@
+*.a
+*.c~
+*.o
+my_sudo
+a.out
+bootstrap.c
+bootstrap
+informations
